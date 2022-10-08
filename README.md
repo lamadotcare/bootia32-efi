@@ -19,7 +19,7 @@ Pretty much anything using Intel [Silvermont](https://en.wikipedia.org/wiki/Silv
 ---
 # How-Tos
 ## Create a bootable USB stick from a Lubuntu ISO
-I tested several Ubuntu distributions with these chips and found Lubuntu to be the most performant and lightweight on resources.  For the tests I booted each in "live CD" mode, so none of the systems had access to swap
+I tested several Ubuntu distributions with these chips and found Lubuntu to be the most performant and lightweight on resources.  For the tests I booted each in "live CD" mode, so none of the systems had access to swap.
 
 With Lubuntu I could simultaneously open all the default sponsored tabs in Firefox (Facebook, Reddit, other heavy sites), run LibreOffice Write and Calc, load a 4k image into GIMP, and have a YouTube video running full screen in just under 1.5GB RAM.  The other Ubuntu distros OOM'd and died long before I could get to YouTube.
 
